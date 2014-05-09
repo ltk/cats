@@ -1,11 +1,9 @@
 ---
-layout: default
+layout: home
 ---
 
 # Dem gifs tho
 
-[helenvholmes/cats](https://github.com/helenvholmes/cats)
+Oh Hai! You've found my Gif collection.
 
-This is my cat gif collection. Be sure to check out my [normal gifs](https://github.com/helenvholmes/gifs) collection too, it's a whole other subsection of gifs.
-
-{% include site-index.html %}
+Fork me on GitHub at [jglovier/gifs](https://github.com/jglovier/gifs)
