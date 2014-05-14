@@ -19,7 +19,6 @@ body{
 
 .page-header .img-preview {
   width: 100%;
-  min-height: 100%;
   position: relative;
   z-index: 1;
   overflow: hidden;
@@ -31,7 +30,6 @@ body{
 
 .page-header .gif-preview {
   width: 100%;
-  min-height: 100%;
   position: absolute;
   left: 0;
   top: 0;
