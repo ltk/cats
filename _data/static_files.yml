@@ -1,17 +1,20 @@
 ---
-- path: cats are assholes/bah-humbug.gif
+- path: cats are jerks/bah-humbug.gif
   modified_time: 1391282115
   extname: .gif
-- path: cats are assholes/cup.gif
+- path: cats are jerks/cup.gif
   modified_time: 1391282018
   extname: .gif
-- path: cats are assholes/shhhhhh.gif
+- path: cats are jerks/deal-with-it.gif
+  modified_time: 1399850703
+  extname: .gif
+- path: cats are jerks/shhhhhh.gif
   modified_time: 1391377929
   extname: .gif
-- path: cats are assholes/slam-dunk.gif
+- path: cats are jerks/slam-dunk.gif
   modified_time: 1391282052
   extname: .gif
-- path: cats are assholes/train.gif
+- path: cats are jerks/train.gif
   modified_time: 1391281990
   extname: .gif
 - path: cats being stupid/SAIL.gif
@@ -40,6 +43,9 @@
   extname: .gif
 - path: cute cats/im-a-kitty-cat.gif
   modified_time: 1391281963
+  extname: .gif
+- path: cute cats/party-hard.gif
+  modified_time: 1391282079
   extname: .gif
 - path: cute cats/pet-me.gif
   modified_time: 1391280516
